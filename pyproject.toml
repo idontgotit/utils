@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "utils_LionHp192"
+version = "1.0"
+description = "utils for convert usually use"
+authors = ["LionHp192 <idontgotit@gmail.com>"]
+readme = "README.md"
+keywords = ["utils-convert"]
+homepage = "https://github.com/whtsky/django-utils-six"
+repository = "https://github.com/whtsky/django-utils-six"
+
+readme = "README.md"
+requires-python = ">=3.2"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
