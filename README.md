@@ -1,9 +1,5 @@
 # utils convert
 
-```bash
-
-```
-
 
 ## Why?
 
